@@ -34,9 +34,5 @@ Organizations can commit against any requirement
 Organizations can fulfill the requirements against their commitments
 Organizations can view their commitments and fulfillments
 
-**Contributors**
-The following contributors have participated in the development of this project:
-
-Huzaifa Tanzeel | 
-Maarij Amir | 
-Rayan Ali 
+## Contributors
+Maarij Amir | Rayan Ali | Huzaifa Tanzeel
